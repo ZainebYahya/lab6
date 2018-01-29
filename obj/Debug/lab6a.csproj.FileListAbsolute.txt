@@ -1,0 +1,7 @@
+c:\users\safa\source\repos\lab6a\lab6a\bin\Debug\lab6a.exe.config
+c:\users\safa\source\repos\lab6a\lab6a\bin\Debug\lab6a.exe
+c:\users\safa\source\repos\lab6a\lab6a\bin\Debug\lab6a.pdb
+c:\users\safa\source\repos\lab6a\lab6a\obj\Debug\lab6a.csprojResolveAssemblyReference.cache
+c:\users\safa\source\repos\lab6a\lab6a\obj\Debug\lab6a.csproj.CoreCompileInputs.cache
+c:\users\safa\source\repos\lab6a\lab6a\obj\Debug\lab6a.exe
+c:\users\safa\source\repos\lab6a\lab6a\obj\Debug\lab6a.pdb
